@@ -95,8 +95,8 @@ const Home = (props) => {
       <div className={props.classes.tabs}>
         <Tabs
           items={[
-            ["Our Products", <Robot />, <List items={products} md={6} />],
-            ["Our Services", <Alien />, <List items={services} />],
+            ["Our Companies", <Robot />, <List items={products} md={6} />],
+            ["Our Mission", <Alien />, <List items={services} />],
           ]}
         />
       </div>

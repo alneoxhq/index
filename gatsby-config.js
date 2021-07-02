@@ -1,16 +1,16 @@
 module.exports = {
   // Customize me!
   siteMetadata: {
-    company: "Fox and Geese",
-    domain: "https://foxandgeese.com",
+    company: "Alnex",
+    domain: "https://alnex.com",
     defaultTitle:
-      "Fox and Geese: Digital Agency Providing ML, Python, Node, React.js Engineering",
+      "Alnex: Digital Agency Providing ML, Python, Node, React.js Engineering",
     preamble:
-      "We're an Oregon-based team of data scientists and software engineers.",
+      "We're a Montreal-based team of data scientists and software engineers.",
     defaultDescription: "We develop exceptional products that meet real needs.",
     postamble: "Think we can help your project? We'd love to hear from you:",
     contact: {
-      email: "hi@foxandgeese.com",
+      email: "hi@alnex.com",
     },
     menuLinks: [],
   },
