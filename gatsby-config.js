@@ -8,7 +8,7 @@ module.exports = {
     preamble:
       "We're a Montreal-based team of data scientists and software engineers.",
     defaultDescription: "We develop exceptional products that meet real needs.",
-    postamble: "Think we can help your project? We'd love to hear from you:",
+    postamble: "Think we can help your project? We'd love to hear from you!",
     contact: {
       email: "hello@alnex.com",
     },
