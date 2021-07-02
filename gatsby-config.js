@@ -10,7 +10,7 @@ module.exports = {
     defaultDescription: "We develop exceptional products that meet real needs.",
     postamble: "Think we can help your project? We'd love to hear from you:",
     contact: {
-      email: "hi@alnex.com",
+      email: "hello@alnex.com",
     },
     menuLinks: [],
   },
