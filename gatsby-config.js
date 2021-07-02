@@ -4,7 +4,7 @@ module.exports = {
     company: "Alnex",
     domain: "https://alnex.com",
     defaultTitle:
-      "Alnex: Digital Agency Providing ML, Python, Node, React.js Engineering",
+      "Alnex: Digital Agency Providing ML, Python, Node, React.js Engineering.",
     preamble:
       "We're a Montreal-based team of data scientists and software engineers.",
     defaultDescription: "We develop exceptional products that meet real needs.",
