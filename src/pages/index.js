@@ -82,7 +82,7 @@ const Home = (props) => {
           paragraph
           variant="h1"
         >
-          <span className={classes.angles}>&lt;</span> hello{" "}
+          <span className={classes.angles}>&lt;</span> Alnex{" "}
           <span className={classes.angles}>&gt;</span>
         </Typography>
         <Typography className={classes.h2} paragraph variant="h2">

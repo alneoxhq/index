@@ -2,7 +2,7 @@ module.exports = {
   // Customize me!
   siteMetadata: {
     company: "Alnexx",
-    domain: "https://alnex.com",
+    domain: "https://master.d12j3a0n2yxsj0.amplifyapp.com/",
     defaultTitle:
       "Alnex: Digital Agency Providing ML, Python, Node, React.js Engineering.",
     preamble:
@@ -26,8 +26,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: "FoxAndGeese",
-        short_name: "FoxAndGeese",
+        name: "Alnex",
+        short_name: "Alnex",
         start_url: "/",
         background_color: "#eeeeee",
         //theme_color: "#6b37bf",
