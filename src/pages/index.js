@@ -8,7 +8,7 @@ import { withStyles } from "@material-ui/core/styles";
 import Typography from "@material-ui/core/Typography";
 import { Alien } from "mdi-material-ui";
 import { Robot } from "mdi-material-ui";
-import logo from "../../images/logo.png";
+import logo from "../../images/logo.svg";
 import Avatar from "@material-ui/core/Avatar";
 
 const styles = (theme) => ({
@@ -18,14 +18,14 @@ const styles = (theme) => ({
     fontWeight: "normal",
   },
   avatar: {
-    width: "160px",
-    height: "160px",
-    marginBottom: "40px",
+    width: "165px",
+    height: "165px",
+    marginBottom: "30px",
     backgroundColor: theme.palette.primary.light,
   },
   logo: {
-    width: "100px",
-    height: "100px",
+    width: "170px",
+    height: "170px",
     border: "0",
   },
   text: {

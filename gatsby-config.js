@@ -1,7 +1,7 @@
 module.exports = {
   // Customize me!
   siteMetadata: {
-    company: "Alnex",
+    company: "Alnexx",
     domain: "https://alnex.com",
     defaultTitle:
       "Alnex: Digital Agency Providing ML, Python, Node, React.js Engineering.",
@@ -34,7 +34,7 @@ module.exports = {
         // Enables "Add to Homescreen" prompt and disables browser UI (including back button)
         // see https://developers.google.com/web/fundamentals/web-app-manifest/#display
         display: "standalone",
-        icon: "images/logo.png", // This path is relative to the root of the site.
+        icon: "images/logo.svg", // This path is relative to the root of the site.
         // An optional attribute which provides support for CORS check.
         // If you do not provide a crossOrigin option, it will skip CORS for manifest.
         // Any invalid keyword or empty string defaults to `anonymous`
@@ -58,7 +58,7 @@ module.exports = {
         background_color: `#eeeeee`,
         theme_color: `#a2466c`,
         display: `standalone`,
-        icon: "./images/logo.png",
+        icon: "./images/logo.svg",
       },
     },
     {
@@ -72,7 +72,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        trackingId: "UA-120162676-1",
+        trackingId: "UA-1s",
       },
     },
   ],
