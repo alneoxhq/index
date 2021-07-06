@@ -1,7 +1,7 @@
 module.exports = {
   // Customize me!
   siteMetadata: {
-    company: "Alnexxxx",
+    company: "Alnexxxxx",
     domain: "https://master.d12j3a0n2yxsj0.amplifyapp.com/",
     defaultTitle:
       "Alnex: Digital Agency Providing ML, Python, Node, React.js Engineering.",
