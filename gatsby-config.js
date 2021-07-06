@@ -4,7 +4,7 @@ module.exports = {
     company: "Alnexxxxx",
     domain: "https://master.d12j3a0n2yxsj0.amplifyapp.com/",
     defaultTitle:
-      "Alnexxxx:x DDigital Agency Providing ML, Python, Node, React.js Engineering.",
+      "Alnexxxx:x DDDigital Agency Providing ML, Python, Node, React.js Engineering.",
     preamble: "Alternative Visions for the Future.",
     defaultDescription: "NEW APPROACHES TO SOLVING OLD PROBLEMS.",
     postamble: "Think we can help your project? We'd love to hear from you!",
