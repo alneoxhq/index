@@ -5,9 +5,8 @@ module.exports = {
     domain: "https://master.d12j3a0n2yxsj0.amplifyapp.com/",
     defaultTitle:
       "Alnex: Digital Agency Providing ML, Python, Node, React.js Engineering.",
-    preamble:
-      "We're a Montreal-based team of data scientists and software engineers.",
-    defaultDescription: "We develop exceptional products that meet real needs.",
+    preamble: "Alternative Visions for the Future.",
+    defaultDescription: "NEW APPROACHES TO SOLVING OLD PROBLEMS.",
     postamble: "Think we can help your project? We'd love to hear from you!",
     contact: {
       email: "hello@alnex.com",
